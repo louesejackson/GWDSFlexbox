@@ -24,5 +24,14 @@
 .header-container { 
     color: darkred;
     background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+ 
+    
+
+}
+
+.header {
+    border: 1px solid green;
 
 }
