@@ -14,8 +14,10 @@
 
 .menu {
     border: 1px solid; /* for debugging only */
+    padding: 10px;
     width: 900px;
     display: flex;
     justify-content: space-between;
+
 
 }
