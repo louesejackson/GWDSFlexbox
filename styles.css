@@ -6,8 +6,16 @@
 
 .menu-container {
     color: #fff;
-    background-color: rgb(6, 236, 187);
+    background-color: #056785;
     padding: 20px 0;
     display: flex;
     justify-content: center;
+}
+
+.menu {
+    border: 1px solid; /* for debugging only */
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+
 }
