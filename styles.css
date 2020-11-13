@@ -14,7 +14,7 @@
 
 .menu {
     border: 1px solid; /* for debugging only */
-    padding: 10px;
+    /* padding: 10px; */
     width: 900px;
     display: flex;
     justify-content: space-between;
@@ -33,10 +33,24 @@
     width: 900px;
     height: 300px;
     display: flex;
-    align-items: space-between;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center ;
+   
    
     /* border: 1px solid green; */
     
 
 }
+
+.signup {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.socials,
+.signup {
+    align-self: flex-end;
+    margin-bottom: 20px;
+} 
+

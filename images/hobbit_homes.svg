@@ -3,9 +3,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 257.1 53" style="enable-background:new 0 0 257.1 53;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#5E6C33;}
-	.st1{font-family:'Pauline-Bol';}
-	.st2{font-size:43.9615px;}
+	.st0{enable-background:new    ;}
+	.st1{fill:#292D69;}
+	.st2{font-family:'MiddleEarth';}
+	.st3{font-size:32.6281px;}
+	.st4{letter-spacing:-3;}
+	.st5{letter-spacing:-7;}
+	.st6{letter-spacing:-6;}
+	.st7{letter-spacing:-2;}
 </style>
-<text transform="matrix(1 0 0 1 6.9858 39.9453)" class="st0 st1 st2">Hobbit Homes</text>
+<text transform="matrix(1 0 0 1 8.796 41.6309)" class="st0"><tspan x="0" y="0" class="st1 st2 st3 st4">H</tspan><tspan x="28.9" y="0" class="st1 st2 st3 st5">o</tspan><tspan x="44.9" y="0" class="st1 st2 st3 st6">b</tspan><tspan x="61.3" y="0" class="st1 st2 st3 st7">b</tspan><tspan x="81.7" y="0" class="st1 st2 st3 st4">i</tspan><tspan x="91" y="0" class="st1 st2 st3">t </tspan><tspan x="122.8" y="0" class="st1 st2 st3 st7">Ho</tspan><tspan x="173.3" y="0" class="st1 st2 st3 st6">m</tspan><tspan x="204" y="0" class="st1 st2 st3 st4">e</tspan><tspan x="220.7" y="0" class="st1 st2 st3">s</tspan></text>
 </svg>
