@@ -33,8 +33,10 @@
     width: 900px;
     height: 300px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border: 1px solid green;
+    align-items: space-between;
+    justify-content: center;
+   
+    /* border: 1px solid green; */
+    
 
 }
