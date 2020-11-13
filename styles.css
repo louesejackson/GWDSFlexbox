@@ -50,7 +50,7 @@
 .photo-grid {
     width: 900px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around ;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
@@ -67,8 +67,7 @@
 
 .photo-grid-item {
     /* border: 2px solid #fff; */
-    /* max-width: 300px; */
-    /* max-height: 300px; */
+ 
 }
 
 .hobbitimg {
