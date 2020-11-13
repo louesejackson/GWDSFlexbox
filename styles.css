@@ -6,7 +6,7 @@
 
 .menu-container {
     color: #fff;
-    background-color: #056785;
+    background-color: #292D69;
     padding: 20px 0;
     display: flex;
     justify-content: center;
@@ -42,10 +42,43 @@
 
 }
 
+.photo-grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+.photo-grid {
+    width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.first-item {
+    order: 1;
+}
+
+.last-item {
+    order: -1;
+}
+
+.photo-grid-item {
+    /* border: 2px solid #fff; */
+    /* max-width: 300px; */
+    /* max-height: 300px; */
+}
+
+.hobbitimg {
+    width: 300px;
+}
+
 .signup {
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+
 }
 
 .socials,
