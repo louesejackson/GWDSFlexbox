@@ -25,6 +25,7 @@ h2 {
 
 section {
     display: flex;
+    flex-wrap: wrap;
 }
 
 article {
@@ -38,5 +39,6 @@ article {
 .hobbitimg {
     border: 2px dashed orange;
     display: flex;
-    width: 200px;
+    width: 300px;
+    
 }
