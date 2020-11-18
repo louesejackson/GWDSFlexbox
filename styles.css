@@ -18,3 +18,7 @@ h1 {
     line-height: 100px;
     margin: 0;
 }   
+
+section {
+    display: flex;
+}
