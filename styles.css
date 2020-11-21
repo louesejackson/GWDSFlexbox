@@ -26,7 +26,7 @@ h2 {
 
 section {
     display: flex;
-    flex-wrap: wrap-reverse;
+    flex-wrap: wrap;
 }
 
 article {
@@ -38,7 +38,7 @@ article {
 }
 
 .hobbitimg {
-    border: 2px dashed orange;
+    /* border: 2px dashed orange; */
     text-align: center;
 }
 
